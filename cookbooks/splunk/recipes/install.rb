@@ -7,7 +7,7 @@
 # All rights reserved - Do Not Redistribute
 #
 
-rightscale_marke :begin
+rightscale_marker :begin
 
 log "Installing Splunk"
 
